@@ -1,13 +1,3 @@
-# 简单的中文昵称生成
-
-
-## 如何使用
-```sh
-# 准备
-go get github.com/inuomi/go-makename
-```
-
-```go
 package main
 
 import (
@@ -20,5 +10,3 @@ func main() {
 	nickname := makename.Generate()
 	log.Println(nickname)
 }
-
-```
