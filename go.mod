@@ -1,3 +1,3 @@
-module github.com/inuomi/go-makename
+module github.com/cuipeiyu/go-makename
 
-go 1.17
+go 1.13

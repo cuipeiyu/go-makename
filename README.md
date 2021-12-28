@@ -4,7 +4,7 @@
 ## 如何使用
 ```sh
 # 准备
-go get github.com/inuomi/go-makename
+go get github.com/cuipeiyu/go-makename
 ```
 
 ```go
@@ -13,7 +13,7 @@ package main
 import (
 	"log"
 
-	"github.com/inuomi/go-makename"
+	"github.com/cuipeiyu/go-makename"
 )
 
 func main() {
